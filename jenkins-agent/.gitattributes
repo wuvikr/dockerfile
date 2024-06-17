@@ -1,0 +1,5 @@
+tools/kubectl filter=lfs diff=lfs merge=lfs -text
+tools/sonar-scanner-cli-6.0.0.4432-linux.zip filter=lfs diff=lfs merge=lfs -text
+tools/apache-maven-3.9.7-bin.tar.gz filter=lfs diff=lfs merge=lfs -text
+tools/helm-v3.15.2-linux-amd64.tar.gz filter=lfs diff=lfs merge=lfs -text
+tools/jdk-17_linux-x64_bin.tar.gz filter=lfs diff=lfs merge=lfs -text
